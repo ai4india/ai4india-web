@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>Using AI for Indian Problems</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>Agriculture Project A</title>
+        
+          <description>&lt;p&gt;A nation progresses when their farmers do. Whether by using Deep Learning to identify plant diseases, data analytics to help farmers have greater price control, or observing satellite imagery to predict changing weather patterns, the field of agriculture is ripe for disruption.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 30 Jun 2018 14:30:00 +0530</pubDate>
+        <link>
+        http://localhost:4000/agriculture_a</link>
+        <guid isPermaLink="true">http://localhost:4000/agriculture_a</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Agriculture Project B</title>
+        
+          <description>&lt;p&gt;A nation progresses when their farmers do. Whether by using Deep Learning to identify plant diseases, data analytics to help farmers have greater price control, or observing satellite imagery to predict changing weather patterns, the field of agriculture is ripe for disruption.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 30 Jan 2018 14:30:00 +0530</pubDate>
+        <link>
+        http://localhost:4000/agriculture_b</link>
+        <guid isPermaLink="true">http://localhost:4000/agriculture_b</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>AI4India</title>
+        
+          <description>&lt;p&gt;AI4India is an open community led by university students and professors to teach, identify, develop, and deploy AI to address India-specific challenges.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 27 Jul 2017 15:30:00 +0530</pubDate>
+        <link>
+        http://localhost:4000/welcome</link>
+        <guid isPermaLink="true">http://localhost:4000/welcome</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Agriculture</title>
+        
+          <description>&lt;p&gt;A nation progresses when their farmers do. Whether by using Deep Learning to identify plant diseases, data analytics to help farmers have greater price control, or observing satellite imagery to predict changing weather patterns, the field of agriculture is ripe for disruption.&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 27 Jul 2017 14:30:00 +0530</pubDate>
+        <link>
+        http://localhost:4000/agriculture</link>
+        <guid isPermaLink="true">http://localhost:4000/agriculture</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Healthcare</title>
+        
+          <description>&lt;p&gt;Good, inexpensive health care is a fundamental right for every person.  Advances in AI make it possible to truly democratise healthcare, enabling the 144 million Indians without good healthcare facilities to live better, healthier lives.&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 27 Jul 2017 13:30:00 +0530</pubDate>
+        <link>
+        http://localhost:4000/healthcare</link>
+        <guid isPermaLink="true">http://localhost:4000/healthcare</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Smart Cities</title>
+        
+          <description>&lt;p&gt;46% of India’s population is expected to live in cities by 2025. Rapid innovation in transportation, governance, pollution control, city planning and disaster management is necessary to ensure a better future for our urban dwellers.&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 27 Jul 2017 12:30:00 +0530</pubDate>
+        <link>
+        http://localhost:4000/smart-cities</link>
+        <guid isPermaLink="true">http://localhost:4000/smart-cities</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
