@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/team.jpg
+cover:  assets/images/smart-cities.jpg
 navigation: True
 title: Smart Cities
 date: 2017-07-27 07:00:00

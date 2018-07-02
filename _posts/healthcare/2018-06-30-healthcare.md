@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/tags.jpg
+cover:  assets/images/heathcare.jpg
 navigation: True
 title: Healthcare
 date: 2017-07-27 08:00:00
