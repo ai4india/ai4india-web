@@ -4,7 +4,7 @@
     <title> - Articles</title>
     <description>Using AI for India</description>
     <link>
-    http://localhost:4000</link>
+    </link>
     
       
       <item>
@@ -16,8 +16,8 @@
         
         <pubDate>Thu, 27 Jul 2017 15:30:00 +0530</pubDate>
         <link>
-        http://localhost:4000/welcome</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome</guid>
+        /welcome</link>
+        <guid isPermaLink="true">/welcome</guid>
       </item>
       
     
@@ -30,8 +30,8 @@
         
         <pubDate>Thu, 27 Jul 2017 14:30:00 +0530</pubDate>
         <link>
-        http://localhost:4000/agriculture</link>
-        <guid isPermaLink="true">http://localhost:4000/agriculture</guid>
+        /agriculture</link>
+        <guid isPermaLink="true">/agriculture</guid>
       </item>
       
     
@@ -44,8 +44,8 @@
         
         <pubDate>Thu, 27 Jul 2017 13:30:00 +0530</pubDate>
         <link>
-        http://localhost:4000/healthcare</link>
-        <guid isPermaLink="true">http://localhost:4000/healthcare</guid>
+        /healthcare</link>
+        <guid isPermaLink="true">/healthcare</guid>
       </item>
       
     
@@ -58,8 +58,8 @@
         
         <pubDate>Thu, 27 Jul 2017 12:30:00 +0530</pubDate>
         <link>
-        http://localhost:4000/smart-cities</link>
-        <guid isPermaLink="true">http://localhost:4000/smart-cities</guid>
+        /smart-cities</link>
+        <guid isPermaLink="true">/smart-cities</guid>
       </item>
       
     
