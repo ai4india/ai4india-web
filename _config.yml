@@ -92,3 +92,5 @@ exclude:
   - "*.Rmd"
   - .git*
 destination: _site
+plugins_dir: [_plugins]
+gems: [jekyll-paginate, jekyll-feed]
