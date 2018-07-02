@@ -1,16 +1,12 @@
 Agriculture:
   name: agriculture
   description: A nation progresses when their farmers do. Whether by using Deep Learning to identify plant diseases, data analytics to help farmers have greater price control, or observing satellite imagery to predict changing weather patterns, the field of agriculture is ripe for disruption.
-  cover: False
+  cover: /assets/images/agriculture-tag.jpg
 Healthcare:
   name: healthcare
   description: Good, inexpensive health care is a fundamental right for every person.  Advances in AI make it possible to truly democratise healthcare, enabling the 144 million Indians without good healthcare facilities to live better, healthier lives.
-  cover: False
+  cover: /assets/images/healthcare-tag.jpg
 Smart-Cities:
   name: smart-cities
   description: 46% of India’s population is expected to live in cities by 2025. Rapid innovation in transportation, governance, pollution control, city planning and disaster management is necessary to ensure a better future for our urban dwellers.
-  cover: False
-getting-started:
-  name: getting-started
-  description: False
-  cover: False
+  cover: /assets/images/smart-cities-tag.jpg
