@@ -8,36 +8,6 @@
     
       
       <item>
-        <title>Agriculture Project A</title>
-        
-          <description>&lt;p&gt;A nation progresses when their farmers do. Whether by using Deep Learning to identify plant diseases, data analytics to help farmers have greater price control, or observing satellite imagery to predict changing weather patterns, the field of agriculture is ripe for disruption.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 30 Jun 2018 14:30:00 +0530</pubDate>
-        <link>
-        http://localhost:4000/agriculture_a</link>
-        <guid isPermaLink="true">http://localhost:4000/agriculture_a</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Agriculture Project B</title>
-        
-          <description>&lt;p&gt;A nation progresses when their farmers do. Whether by using Deep Learning to identify plant diseases, data analytics to help farmers have greater price control, or observing satellite imagery to predict changing weather patterns, the field of agriculture is ripe for disruption.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Tue, 30 Jan 2018 14:30:00 +0530</pubDate>
-        <link>
-        http://localhost:4000/agriculture_b</link>
-        <guid isPermaLink="true">http://localhost:4000/agriculture_b</guid>
-      </item>
-      
-    
-      
-      <item>
         <title>AI4India</title>
         
           <description>&lt;p&gt;AI4India is an open community led by university students and professors to teach, identify, develop, and deploy AI to address India-specific challenges.&lt;/p&gt;
