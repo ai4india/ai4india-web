@@ -21,7 +21,10 @@
                     <h2 class="post-card-title">{{ post.title }}</h2>
                 </header>
                 <section class="post-card-excerpt">
-                    <p>{{ post.content | strip_html | truncatewords: 33, "" }}</p>
+                    <p>
+                        {{ post.content | strip_html | truncatewords: 20, ".... Learn More"}}
+                        <!-- <a class="post-card-learn-more" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{post.learnmore}}</a> -->
+                    </p>
                 </section>
             </a>
             <footer class="post-card-meta">
